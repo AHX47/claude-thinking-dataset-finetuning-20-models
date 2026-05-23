@@ -3,7 +3,7 @@
 This repository contains **20 complete Jupyter notebooks** that fine-tune a wide range of machine learning models on a unique dataset of **Claude AI conversations** – including the assistant’s internal `<think>` reasoning chains.
 
 The dataset (`claude-opus-4_5-250x_jsonl.txt`) consists of ~250 user–assistant pairs, where each assistant response contains a hidden reasoning block (`<think>...</think>`) followed by the final answer. We extract both parts and use them for various NLP, audio, vision, and agent tasks.
-- [Download Dataset] [claude-opus-4_5-250x_jsonl.txt]( https://huggingface.co/datasets/[YOUR_USERNAME]/claude-thinking-dataset/resolve/main/claude-opus-4_5-250x_jsonl.txt)
+- [Download Dataset] [claude-opus-4_5-250x_jsonl.txt](https://huggingface.co/datasets/TeichAI/claude-4.5-opus-high-reasoning-250x/blob/main/claude-opus-4.5-250x.jsonl)
 ---
 
 ## 📁 Repository Structure
