@@ -44,8 +44,8 @@ The dataset (`claude-opus-4_5-250x_jsonl.txt`) consists of ~250 user–assistant
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/claude-thinking-dataset.git
-cd claude-thinking-dataset
+git clone https://github.com/AHX47/claude-thinking-dataset-finetuning-20-models
+cd claude-thinking-dataset-finetuning-20-models
 ```
 
 ### 2. Install base dependencies
@@ -54,6 +54,7 @@ We recommend a **Python 3.10+** environment with GPU support (CUDA).
 
 ```bash
 pip install --upgrade pip
+pip install -r requirements.txt
 ```
 
 ### 3. Dataset
